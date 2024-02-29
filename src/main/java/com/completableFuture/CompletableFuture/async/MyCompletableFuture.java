@@ -7,5 +7,6 @@ public class MyCompletableFuture {
 
     public static void main(String[] args) {
 
+
     }
 }

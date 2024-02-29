@@ -10,4 +10,5 @@ public class CompletableFutureApplication {
 		SpringApplication.run(CompletableFutureApplication.class, args);
 	}
 
+
 }
